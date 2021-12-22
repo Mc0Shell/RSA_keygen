@@ -33,13 +33,13 @@ print("\n e: " + str(e) + " | d: " + str(d))
 print("\n\n Kpr: (" + str(N) + ", " + str(e) +") | Kpb: (" + str(N) + ", " + str(d) +")" + "\n")
 
 
-text = "test prova"
+text = "test"
 for char in text:
     c.append(ord(char)**e % N)
 
 for char in c:
     textDec += chr(char**d % N)
 
-print("\n Testo da criptare: " + text + "\n")
-print(" Testo criptato: " + str(c) + "\n")
-print(" Testo decriptato: " + textDec + "\n")
+print("\n Text to crypt: " + text + "\n")
+print(" Crypted text: " + str(c) + "\n")
+print(" Encrypted text: " + textDec + "\n")
