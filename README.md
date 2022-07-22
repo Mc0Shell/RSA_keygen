@@ -9,3 +9,4 @@ As parameters (p, q) the algorithm needs prime numbers.
 Related links:
   RSA Algorithm theory: https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 
+![immagine](https://user-images.githubusercontent.com/55066055/180569635-1dc3b923-d811-4241-a20a-0cd481644ed3.png)
